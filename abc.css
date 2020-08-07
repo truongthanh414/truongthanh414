@@ -1,0 +1,252 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*Reset CSS*/
+
+#khung{
+	width: 1200px;
+	height: 3100px;
+/*	background: black;*/
+	margin: 0 auto;
+}
+.khungtren{
+	width: 1200px;
+	height: 150px;
+}
+#loggin{
+	width: 800px;
+	height: 20px;
+	float:right;
+}
+.diachi{
+	width:200px;
+	height: 15px;
+	float: left;
+	text-align: center;
+}
+#loggin ul{
+	list-style: none;
+	text-align: right;
+}
+#loggin ul li{
+	display: inline-block;
+}
+#loggin ul li a{
+	color: black;
+	text-decoration: none;
+	display: block;
+}
+#loggin ul li a:hover{
+	color: blue;
+}
+.logo{
+	width: 280px;
+	height: 130px;
+	float: left;
+}
+img{
+	width: 300px;
+	height: 130px;
+		
+}
+.menu{
+	width: 900px;
+	height: 120px;
+	float: left;
+}
+.menu ul{
+	list-style: none;
+	text-align: center;
+	margin-top: 50px;
+}
+.menu ul li{
+	display: inline-block;
+	text-align: center;
+	width: 115px;
+	height: 40px;
+	line-height: 20px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	display: block;
+	color: black;
+}
+.menu ul li a:hover{
+	background:#FFFFFF;
+	color:blue;
+}
+#khunggiua{
+	width: 1200px;
+	height: 2690px;
+/*	background:#835657;*/
+	float: left;
+}
+.gioithieu{
+	width: 1200px;
+	height: 550px;
+/*	background: #D36D6F;*/
+}
+.quangcao{
+	width: 1200px;
+	height: 50px;
+/*	background: #D48A8B;*/
+}
+.quangcao h3{
+	text-align: center;
+	line-height: 40px;
+	border: 2px solid #f90D1C;
+	color: #F90D1C;
+}
+.hinhanh{
+	width: 1200px;
+	height: 600px;
+}
+.hinhanh img{
+	width: 1200px;
+	height: 600px;
+}
+.oto{
+	width: 1200px;
+	height: 1020px;
+/*	background: #3F506E;*/
+	margin-top: 100px;
+}
+.mohinhoto{
+	width: 1200px;
+	height: 80px;
+/*	background: #765858;*/
+	margin: 0 auto;
+}
+.mohinhoto h2{
+	text-align: center;
+	line-height: 80px;
+	color:navy;
+}
+.dunghinhanh{
+	width: 1200px;
+	height: 500px;
+}
+.hinhanhoto{
+	width: 290px;
+	height: 450px;
+	float: left;
+	border: 1px solid hsla(0,0%,0%,0.67);
+	margin-left: 5px;
+/*	background: #4F4141;*/
+	margin-top: 15px;
+
+}
+.hinhanhoto img{
+	width: 280px;
+	height: 390px;
+	float: left;
+}
+.hinhanhoto h4{
+	text-align: center;
+}
+.oto ul{
+	list-style: none;
+	float: right;
+	margin-right: 30px;
+}
+.dunghinhanh h3{
+	margin-left: 20px;
+}
+.dunghinhanh ul li{
+	display: inline-block;
+	text-align: center;
+	width: 115px;
+	height: 40px;
+	line-height: 20px;}
+.dunghinhanh ul li a{
+	text-decoration: none;
+	display: block;
+	color: black;
+}
+.dunghinhanh ul li a:hover{
+	background:#FFFFFF;
+	color:blue;
+}
+.xemay{
+	width: 1200px;
+	height: 1030px;
+/*	background: hsla(359,49%,54%,1.00);*/
+	float: left;
+}
+.dunghinhanhxemay{
+	width: 1200px;
+	height: 980px;
+/*	background: hsla(0,0%,0%,1.00);*/
+}
+.mohinhxemay{
+	width: 1200px;
+	height: 80px;
+/*	background: hsla(357,23%,83%,1.00);*/
+	margin: 0 auto;
+}
+.mohinhxemay h2{
+text-align: center;
+	line-height: 70px;
+}
+.dunghinhxemay{
+	width: 290px;
+	height: 450px;
+	float: left;
+	border: 1px solid hsla(0,0%,0%,0.67);
+	margin-left: 5px;
+/*	background: #4F4141;*/
+	margin-top: 15px;
+}
+.dunghinhxemay img{
+	width: 280px;
+	height: 390px;
+	margin: 0 auto;
+/*	border: 1px solid hsla(0,0%,0%,0.67)*/
+}
+.dunghinhxemay h4{
+	text-align: center;
+}
+.dunghinhxemay ul{
+	
+	list-style: none;
+	float: right;
+	margin-right: 30px
+}
+.dunghinhxemay h3{
+	margin-left: 20px;
+}
+.dunghinhxemay ul li a{
+	text-decoration: none;
+	display: block;
+	color: black;
+}
+.dunghinhxemay ul li a:hover{
+	background:#FFFFFF;
+	color:blue;
+}
+.cuoitrang{
+	width: 1200px;
+	height: 100px;
+	float: left;
+	margin-top: 160px;
+}
+.cty{
+	width: 630px;
+	height: 100px;
+	float: left;
+}
+.chinhanh{
+	width: 270px;
+	height: 100px;
+	float: left;
+}
+.cskh{
+	width: 300px;
+	height: 100px;
+	float: left;
+}
+.cskh h4{
+	color: red;
+}
